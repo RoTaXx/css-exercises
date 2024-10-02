@@ -1,0 +1,22 @@
+.number{
+    background-color: pink;
+    font-family:'Verdana', 'DejaVu Sans', 'sans-serif';
+    font-size: 10px;
+}
+
+.number.two{
+    font-size: 20px;
+}
+
+#second{
+    color: blue;
+    font-size:xx-large;
+    font-weight:500;
+}
+
+#forth{
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: large;
+}
+
